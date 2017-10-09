@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HashIndex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HashIndex_jar</output-path>
+    <root id="archive" name="HashIndex.jar">
+      <element id="module-output" name="HashIndex" />
+    </root>
+  </artifact>
+</component>
